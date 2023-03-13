@@ -7,5 +7,5 @@ create binary image
 - app.py
 
 ## view
-<img src='binary.png' width='500'>
+<img src='binary.png' width='800'>
 
