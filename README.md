@@ -1,5 +1,6 @@
 # tz_flask_20230312_binary
 create binary image
+
 threshold fixed at 128
 
 ## how to deploy
